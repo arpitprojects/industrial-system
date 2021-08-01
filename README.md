@@ -2,15 +2,15 @@
 
 To calculate the time overlapping by various ranges.
 
-## Installation
+## Prerequisites
 
 - Make sure node is installed in the system.
 
 ```bash
-To run the project use node web server.
+To run the project use node server.
 ```
 
-## Usage
+## Installation
 
 ```bash
 https://github.com/arpitprojects/industrial-system.git
