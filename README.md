@@ -13,7 +13,7 @@ To run the project use node server.
 ## Installation
 
 ```bash
-https://github.com/arpitprojects/industrial-system.git
+git clone https://github.com/arpitprojects/industrial-system.git
 
 cd industrial-system
 
